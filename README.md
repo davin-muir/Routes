@@ -5,8 +5,13 @@ A web-app built around data provided by Google Maps APIs that lets users registe
 
 #### APIs used:
 • Geocoding API
+
 • ReCaptcha
+
 • Google Places
+
 • Maps JavaScript API
+
 • Distance matrix API
+
 • Directions API
