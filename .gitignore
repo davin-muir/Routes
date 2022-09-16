@@ -1,0 +1,6 @@
+.env
+__pycahce__/
+__init__.py
+migrations
+db.sqlite3
+gitpod
